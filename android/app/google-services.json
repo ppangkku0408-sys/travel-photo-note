@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504358361250",
+    "project_id": "rehearsal-abdd6",
+    "storage_bucket": "rehearsal-abdd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504358361250:android:9c81975486eb1779e6dffb",
+        "android_client_info": {
+          "package_name": "com.example.travel_photo_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504358361250-5vm0jf9a6ve66ti8obl5qq983nefjq0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKbvZScHx4bYg3ovBBSRgs10p7QDzqr-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504358361250-5vm0jf9a6ve66ti8obl5qq983nefjq0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
